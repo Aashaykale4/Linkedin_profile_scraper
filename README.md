@@ -48,4 +48,4 @@ This is a **Flask-based API** that uses **Selenium** to log in to LinkedIn, visi
 - ✅ Add **proxy rotation** to avoid bans.  
 - ✅ Store profile pictures **in a database**.  
 - ✅ Deploy on **AWS/GCP** for cloud use.
-### 📌 [Documentation](https://www.notion.so/Project-LinkedIn-Profile-Scraper-API-18e67d84483080b18fdad04bf9332f79)
+### 📌 [Documentation](https://juniper-kayak-7c8.notion.site/Project-LinkedIn-Profile-Scraper-API-18e67d84483080b18fdad04bf9332f79?pvs=4)
