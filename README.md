@@ -1,7 +1,7 @@
 # LinkedIn Profile Scraper API
 
 ## 📌 Project Description
-This is a **Flask-based API** that uses **Selenium** to log in to LinkedIn, visit a user’s profile, and extract their profile picture URL. It automates the process of **web scraping LinkedIn** using browser automation.
+This is a **Flask-based API** that uses **Selenium** to log in to LinkedIn, visit a user’s profile, and extract their profile URL. It automates the process of **web scraping LinkedIn** using browser automation.
 
 ---
 
@@ -38,6 +38,9 @@ This is a **Flask-based API** that uses **Selenium** to log in to LinkedIn, visi
     ``` json
 
       {
+       "name":"example_name",
+       "location":"example_location",
+       "headline":"example_headline",
        "profile_picture": "https://media.licdn.com/dms/image/D4D03AQEcwCWnB3yGNQ/profile-photo-url.jpg"
       }
 
